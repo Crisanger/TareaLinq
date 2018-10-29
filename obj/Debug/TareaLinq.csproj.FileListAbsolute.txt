@@ -1,0 +1,7 @@
+C:\Users\razie\source\repos\TareaLinq\TareaLinq\bin\Debug\TareaLinq.exe.config
+C:\Users\razie\source\repos\TareaLinq\TareaLinq\bin\Debug\TareaLinq.exe
+C:\Users\razie\source\repos\TareaLinq\TareaLinq\bin\Debug\TareaLinq.pdb
+C:\Users\razie\source\repos\TareaLinq\TareaLinq\obj\Debug\TareaLinq.csproj.CoreCompileInputs.cache
+C:\Users\razie\source\repos\TareaLinq\TareaLinq\obj\Debug\TareaLinq.exe
+C:\Users\razie\source\repos\TareaLinq\TareaLinq\obj\Debug\TareaLinq.pdb
+C:\Users\razie\source\repos\TareaLinq\TareaLinq\obj\Debug\TareaLinq.csprojAssemblyReference.cache
